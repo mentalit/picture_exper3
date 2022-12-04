@@ -1,0 +1,1 @@
+picture_attachment_service.rb
